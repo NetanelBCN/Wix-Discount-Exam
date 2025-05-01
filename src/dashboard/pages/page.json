@@ -1,5 +1,6 @@
 {
   "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-page.json",
   "id": "90f070d1-e3c0-4249-b3bb-3ea00cf61840",
-  "title": "My Discounts"
+  "title": "My Discounts",
+  "sidebar": {"disabled": true}
 }
