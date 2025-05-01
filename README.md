@@ -33,4 +33,4 @@ mv your-exam-file.pdf exam/
 
 
 👉 [Click here to view "Tutorial | Create a Most Expensive Product Discounter With the Wix CLI" in Google Docs]([https://docs.google.com/document/d/YOUR_DOCUMENT_ID_HERE](https://docs.google.com/document/d/1ICn9B9RJGH-4e_8ESNOUriM0xk0y-vcdRPMWb7iHB-0/edit?usp=sharing))
-
+> Replace `[YOUR_DOCUMENT_ID_HERE](https://docs.google.com/document/d/1ICn9B9RJGH-4e_8ESNOUriM0xk0y-vcdRPMWb7iHB-0/edit?usp=sharing)` with your actual Google Docs file ID or full URL.
