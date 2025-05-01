@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "f703c77e-44e8-4ffa-9090-2045e647aa15",
+  "projectId": "my-discounts"
+}
