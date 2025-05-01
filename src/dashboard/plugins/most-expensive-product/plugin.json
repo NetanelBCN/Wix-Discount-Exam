@@ -1,0 +1,6 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-plugin.json",
+  "id": "a69441de-ff74-4d86-864b-2d1992b947d9",
+  "title": "Most Expensive Product",
+  "extends": "3ca518a6-8ae7-45aa-8cb9-afb3da945081"
+}
